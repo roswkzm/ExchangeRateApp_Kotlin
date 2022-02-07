@@ -14,5 +14,6 @@
 
 ### 4. 올바르지 않은 형식의 송금액 입력시
 <img src="https://user-images.githubusercontent.com/86874699/152719811-58bb92be-c6a1-452e-a5e6-42a0590a2408.jpeg" width="200" height="400">
-https://user-images.githubusercontent.com/86874699/152719811-58bb92be-c6a1-452e-a5e6-42a0590a2408.jpeg
 
+
+Retrofit 2와 코루틴을 사용하여 api의 Json값 추출
